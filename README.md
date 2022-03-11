@@ -1,7 +1,4 @@
-<p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
-</p>
-![preview](https://user-images.githubusercontent.com/82678858/157965580-8230a6dc-753c-4a82-a5ab-2a0a0a33b740.png)
+![beautysalon](https://user-images.githubusercontent.com/82678858/157966410-ebedb2ac-ef74-4a2b-afd2-e1dab6ff25cc.png)
 
 ## 🚀 Tecnologias
 
